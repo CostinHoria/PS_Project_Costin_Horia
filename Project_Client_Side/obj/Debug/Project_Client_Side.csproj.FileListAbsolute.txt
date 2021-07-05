@@ -1,0 +1,15 @@
+C:\Users\Horea\source\repos\Project_Client_Side\obj\Debug\Project_Client_Side.csprojAssemblyReference.cache
+C:\Users\Horea\source\repos\Project_Client_Side\obj\Debug\Project_Client_Side.Form1.resources
+C:\Users\Horea\source\repos\Project_Client_Side\obj\Debug\Project_Client_Side.Properties.Resources.resources
+C:\Users\Horea\source\repos\Project_Client_Side\obj\Debug\Project_Client_Side.csproj.GenerateResource.cache
+C:\Users\Horea\source\repos\Project_Client_Side\obj\Debug\Project_Client_Side.csproj.CoreCompileInputs.cache
+C:\Users\Horea\source\repos\Project_Client_Side\bin\Debug\Project_Client_Side.exe.config
+C:\Users\Horea\source\repos\Project_Client_Side\bin\Debug\Project_Client_Side.exe
+C:\Users\Horea\source\repos\Project_Client_Side\bin\Debug\Project_Client_Side.pdb
+C:\Users\Horea\source\repos\Project_Client_Side\obj\Debug\Project_Client_Side.exe
+C:\Users\Horea\source\repos\Project_Client_Side\obj\Debug\Project_Client_Side.pdb
+C:\Users\Horea\source\repos\Project_Client_Side\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Horea\source\repos\Project_Client_Side\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Horea\source\repos\Project_Client_Side\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Horea\source\repos\Project_Client_Side\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Horea\source\repos\Project_Client_Side\obj\Debug\Project_Client_Side.csproj.CopyComplete
